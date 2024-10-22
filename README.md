@@ -26,7 +26,7 @@ Follow these steps to get the project up and running:
 
 1. **To Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/weatherassign.git
+   git clone https://github.com/tejasvisi/weatherAssign.git
    ```
 
 2. **If Configure own API Keys**:
@@ -76,7 +76,7 @@ Follow these steps to get the project up and running:
     "humidity": 56.0,
     "weatherDescription": "clear sky",
     "date": "2024-10-21"
-}
+   }
   ```
 
 ---
