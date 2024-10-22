@@ -120,8 +120,8 @@ You can test the API using **Postman**.
 
 
 ## Visual references
-![ss1](https://github.com/tejasvisi/weatherAssign/blob/main/Screenshot%20(207).png)
-![ss2](https://github.com/tejasvisi/weatherAssign/blob/main/Screenshot%20(208).png)
-![ss3](https://github.com/tejasvisi/weatherAssign/blob/main/Screenshot%20(209).png)
+![ss1](https://github.com/tejasvisi/weatherAssign/blob/main/Screenshot%20(209).png)
+![ss2](https://github.com/tejasvisi/weatherAssign/blob/main/Screenshot%20(207).png)
+![ss3](https://github.com/tejasvisi/weatherAssign/blob/main/Screenshot%20(208).png)
 
 
