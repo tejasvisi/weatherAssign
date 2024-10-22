@@ -112,7 +112,7 @@ You can test the API using **Postman**.
     "humidity": 56.0,
     "weatherDescription": "clear sky",
     "date": "2024-10-21"
-}
+   }
    ```
 
 ---
@@ -121,7 +121,7 @@ You can test the API using **Postman**.
 
 ## Visual references
 ![ss1](https://github.com/tejasvisi/weatherAssign/blob/main/Screenshot%20(207).png)
-![ss2](https://github.com/user-attachments/assets/fe4ffcc7-3d71-4f0a-973f-b15d50ad8f6b)
-![ss3](https://github.com/user-attachments/assets/1ea728f6-f42b-48ae-b7f2-10ec8567399c)
+![ss2](https://github.com/tejasvisi/weatherAssign/blob/main/Screenshot%20(208).png)
+![ss3](https://github.com/tejasvisi/weatherAssign/blob/main/Screenshot%20(209).png)
 
 
